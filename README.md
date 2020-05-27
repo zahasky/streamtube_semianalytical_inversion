@@ -1,5 +1,5 @@
 # streamtube_semianalytical_inversion
-Matlab codes for streamtube analysis with permeability and dispersion calculation. See the following link for publication: https://doi.org/10.1016/j.advwatres.2018.03.002
+Matlab codes for streamtube analysis with permeability and dispersion calculation as described in Zahasky, C., & Benson, S. M. (2018). Micro-Positron Emission Tomography for Measuring Sub-core Scale Single and Multiphase Transport Parameters in Porous Media. Advances in Water Resources, 115, 1–16. https://doi.org/10.1016/j.advwatres.2018.03.002
 
 The PET data example is 'BSS_c1_2ml_PET_data.mat'.
 
